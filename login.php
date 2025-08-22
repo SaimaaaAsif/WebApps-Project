@@ -157,22 +157,22 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
           <button class="slider-btn prev-btnn">&#8249;</button>
           <div class="slider">
               <div class="slide active">
-                  <img src="./assets/Ador.jpg" alt="User 1" class="avatar">
-                  <h3>Ahasanul Monir Adar</h3>
+                  <img src="./assets/Saima.jpg" alt="User 1" class="avatar">
+                  <h3>Saima Asif</h3>
                   <p>Founder</p>
                   <p class="feedback">"Sea Chub Demoiselle Whalefish Zebra Lionfish Mud Cat Pelican Eel."</p>
               </div>
 
               <div class="slide">
                   <img src="./assets/fahim.jpg" alt="User 2" class="avatar">
-                  <h3>Fahim Ahamed</h3>
+                  <h3>Salman</h3>
                   <p>Designer</p>
                   <p class="feedback">"Minnow Snoek Icefish Velvet-Belly Shark. California Halibut."</p>
               </div>
 
               <div class="slide">
                   <img src="./assets/nashib.jpg" alt="User 3" class="avatar">
-                  <h3>Nasib Pagol</h3>
+                  <h3>Afzal</h3>
                   <p>CEO</p>
                   <p class="feedback">"Southern Grayling Trout Perch Sharksucker Sea Toad Rocket."</p>
               </div>
